@@ -1,5 +1,0 @@
-SKU: 333201
-Full product name: GNSS L86-M33 breakout
-Country of origin: Croatia
-HS tariff code: 85176200
-EAN/UPC barcode: 732388662708
